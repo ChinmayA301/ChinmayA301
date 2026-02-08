@@ -23,7 +23,9 @@ I specialize in building **Responsible AI Frameworks** and **Agentic RAG Pipelin
 
 📫 **Reach me at:** [chinmayarora2001@gmail.com](mailto:chinmayarora2001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chinmay-arora/)
 
-[(<img width="348" height="56" alt="image" src="https://github.com/user-attachments/assets/c4c9513e-0dfa-4d0c-818f-2163c29431b3" /> ) ](https://github.com/ChinmayA301/assets/blob/main/ChinmayArora_resume.pdf)
+---
+
+[<img width="170" height="28" alt="image" src="https://github.com/user-attachments/assets/c4c9513e-0dfa-4d0c-818f-2163c29431b3" />](https://github.com/ChinmayA301/assets/blob/main/ChinmayArora_resume.pdf)
 
 <!--
 **ChinmayA301/ChinmayA301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
