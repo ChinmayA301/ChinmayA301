@@ -4,6 +4,8 @@
 I specialize in building **Responsible AI Frameworks** and **Agentic RAG Pipelines**. Currently an M.S. Data Science candidate at the **University of Minnesota**, focusing on bridging the gap between technical depth and strategic governance.
 
 ---
+https://app.chinmayarora.com/blog/
+---
 
 ## 🚀 Featured Expertise
 - **AI Strategy:** Responsible AI Integration, Risk Matrices, and Ethics Governance.
