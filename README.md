@@ -12,16 +12,30 @@ https://app.chinmayarora.com/blog/
 - **Gen AI:** Agentic RAG Systems, Multi-hop Retrieval, and SLM Benchmarking.
 - **MLOps:** Scalable ETL Pipelines (Azure/GCP), Dockerization, and FastAPI Microservices.
 
-## 🧪 Top Projects
-- **[Hennepin County AI Governance](https://link-to-repo):** Policy-aligned risk evaluation framework for 1.2M+ resident services.
-- **[Financial RAG System](https://link-to-repo):** Hybrid agentic pipeline with Text-to-SQL for automated Q&A.
-- **[MarketMakerCRE Engine](https://link-to-repo):** Azure ETL pipelines improving data ingestion speed by 4x.
-- **[Diabetes Outcome Analysis](https://link-to-repo):** Geospatial SDOH linkage using EMR and ADI datasets.
+## 🧪 Featured Data Portfolio
+Three end-to-end projects across the analytics → data science → ML-evaluation spectrum — **real public data, reproducible pipelines, honest limitations, decision-focused findings.**
+
+> *"I build decision systems from messy data: operational dashboards for business visibility, risk models with fairness and calibration checks, and benchmarks for reliable ML deployment."*
+
+### 📊 [Supply Chain Control Tower](https://github.com/ChinmayA301/Operations-Control-Tower) &nbsp;·&nbsp; *Data Analyst · BI · Operations Analyst*
+SQL star schema, KPI design, a tunable supplier **risk score**, and a 5-page Looker Studio decision dashboard on **98K real orders**.
+**DS signals:** data modeling · metric/KPI design · decision-oriented BI · SQL window functions.
+➡️ *Late deliveries drive **6.5× more bad reviews**; operational risk concentrates in 163 suppliers (R$2.7M).*
+
+### 🩺 [Healthcare Risk + Fairness Modeling](https://github.com/ChinmayA301/Risk-Prediction-with-Fairness-Geography) &nbsp;·&nbsp; *Data Scientist · Responsible-AI · Model-Risk Analyst*
+Cohort design, leakage control, **calibration**, subgroup **fairness**, SHAP, and a model card on **70K real inpatient encounters**.
+**DS signals:** rigorous evaluation beyond AUC · responsible-AI judgment · scikit-learn · gradient boosting · SHAP.
+➡️ *Well-calibrated (ECE 0.002) yet inequitable — a **0.44 false-negative-rate gap by age**; model card recommends **against** deployment.*
+
+### 🧪 [Tabular ML Benchmark: Feature Engineering vs AutoML](https://github.com/ChinmayA301/Tabular-ML-Benchmark-Human-Feature-Engineering-vs-AutoML-Agentic-Baselines) &nbsp;·&nbsp; *ML Engineer · ML-Evaluation · AI Engineer*
+A config-driven harness comparing **5 pipelines × 3 domains × 2 split regimes** on accuracy, calibration, runtime, and **robustness under distribution shift**.
+**DS signals:** experiment design · benchmarking discipline · production-minded evaluation · reproducibility.
+➡️ *Preprocessing buys up to **+0.19 AUC** while feature engineering, tuning & AutoML add **≈0** at 10–30× the cost — **validation design beats model selection.***
 
 ## 🛠️ Tech Stack
 - **Languages:** Python (Pandas, PyTorch), SQL, R, C++.
 - **AI/ML:** LangChain, HuggingFace, SHAP/LIME, Scikit-learn, TensorFlow.
-- **Tools:** Docker, FastAPI, Azure, GCP, Power BI, QlikSense.
+- **Tools:** Docker, FastAPI, Azure, GCP, Power BI, Looker Studio, QlikSense.
 
 📫 **Reach me at:** [chinmayarora2001@gmail.com](mailto:chinmayarora2001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chinmay-arora/)
 
