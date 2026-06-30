@@ -1,16 +1,11 @@
 # Hi, I'm Chinmay Arora 👋 
 ### Data Scientist | AI Systems Architect | Gen AI Engineer
 
-I specialize in building **Responsible AI Frameworks** and **Agentic RAG Pipelines**. Currently an M.S. Data Science candidate at the **University of Minnesota**, focusing on bridging the gap between technical depth and strategic governance.
+Currently an M.S. Data Science candidate at the **University of Minnesota**, focusing on bridging the gap between technical depth and strategic governance.
 
 ---
 https://app.chinmayarora.com/blog/
 ---
-
-## 🚀 Featured Expertise
-- **AI Strategy:** Responsible AI Integration, Risk Matrices, and Ethics Governance.
-- **Gen AI:** Agentic RAG Systems, Multi-hop Retrieval, and SLM Benchmarking.
-- **MLOps:** Scalable ETL Pipelines (Azure/GCP), Dockerization, and FastAPI Microservices.
 
 ## 🧪 Featured Data Portfolio
 Three end-to-end projects across the analytics → data science → ML-evaluation spectrum — **real public data, reproducible pipelines, honest limitations, decision-focused findings.**
@@ -31,6 +26,11 @@ Cohort design, leakage control, **calibration**, subgroup **fairness**, SHAP, an
 A config-driven harness comparing **5 pipelines × 3 domains × 2 split regimes** on accuracy, calibration, runtime, and **robustness under distribution shift**.
 **DS signals:** experiment design · benchmarking discipline · production-minded evaluation · reproducibility.
 ➡️ *Preprocessing buys up to **+0.19 AUC** while feature engineering, tuning & AutoML add **≈0** at 10–30× the cost — **validation design beats model selection.***
+
+## 🚀 Featured Expertise
+- **AI Strategy:** Responsible AI Integration, Risk Matrices, and Ethics Governance.
+- **Gen AI:** Agentic RAG Systems, Multi-hop Retrieval, and SLM Benchmarking.
+- **MLOps:** Scalable ETL Pipelines (Azure/GCP), Dockerization, and FastAPI Microservices.
 
 ## 🛠️ Tech Stack
 - **Languages:** Python (Pandas, PyTorch), SQL, R, C++.
