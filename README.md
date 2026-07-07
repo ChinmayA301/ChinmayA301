@@ -7,6 +7,13 @@ Currently an M.S. Data Science candidate at the **University of Minnesota**, foc
 https://app.chinmayarora.com/blog/
 ---
 
+## 🤖 Featured AI Engineering
+
+### 🏛️ [PolyRAG — Multi-Model RAG over AI-Governance Documents](https://github.com/ChinmayA301/PolyRAG) &nbsp;·&nbsp; *AI Engineer · GenAI · AI Governance*
+Same question, same retrieved context — **side-by-side, citation-grounded answers** from **LLaMA 3.3, GPT-OSS 120B, Qwen3 & DeepSeek** (Groq / GitHub Models / Ollama) over **real policy corpora**: NIST AI RMF, EU AI Act, AI Bill of Rights. FAISS retrieval, Crawl4AI + OCR-fallback ingestion, CI-tested, Dockerized. **[Live demo ↗](https://chinmaya301-polyrag.hf.space)**
+**Signals:** multi-provider LLM integration · retrieval evaluation (89% hit@6) · grounding/citation metrics · honest-claims documentation.
+➡️ *With identical context, models diverge in grounding discipline — DeepSeek R1 refuses to overclaim where chat models pad; measured via citation coverage.*
+
 ## 🧪 Featured Data Portfolio
 Three end-to-end projects across the analytics → data science → ML-evaluation spectrum — **real public data, reproducible pipelines, honest limitations, decision-focused findings.**
 
