@@ -19,7 +19,7 @@ Same question, same retrieved context — **side-by-side, citation-grounded answ
 ---
 
 ## Featured Data Science Portfolio
-Three end-to-end projects across analytics, modeling, and ML evaluation — **real public data, reproducible pipelines, honest limitations, decision-focused findings.**
+Four end-to-end projects across analytics, modeling, ML evaluation, and live MLOps — **real public data, reproducible pipelines, honest limitations, decision-focused findings.**
 
 > "I build decision systems from messy data: operational dashboards for business visibility, risk models with fairness and calibration checks, and benchmarks for reliable ML deployment."
 
@@ -37,6 +37,11 @@ Cohort design, leakage control, **calibration**, subgroup **fairness**, SHAP, an
 A config-driven harness comparing **5 pipelines × 3 domains × 2 split regimes** on accuracy, calibration, runtime, and robustness under distribution shift.
 
 **Signals:** experiment design · benchmark discipline · validation strategy · reproducible ML pipelines.
+
+### 🌎 [Live Seismic ML Pipeline](https://github.com/ChinmayA301/Live-Seismic-ML-Pipeline) &nbsp;·&nbsp; *ML Engineer · MLOps · Scientific ML*
+A scheduled, self-monitoring MLOps loop on the **live USGS earthquake feed**: idempotent ingestion, a Great Expectations validation gate, a magnitude-estimation model with **conformal (distribution-free) uncertainty intervals**, and Evidently drift monitoring — running every 6 hours via GitHub Actions.
+
+**Signals:** live/scheduled data pipelines · conformal prediction · MLflow · drift monitoring · data-contract validation.
 
 ---
 
@@ -79,7 +84,9 @@ A lightweight survey product for capturing AI readiness, governance, privacy, RO
 
 **Data Science & Analytics:** Python · pandas · SQL · DuckDB · dimensional modeling · KPI design · Looker Studio · Power BI · geospatial/service analytics
 
-**ML & Responsible AI:** scikit-learn · calibration · subgroup fairness · SHAP/LIME · model cards · benchmark design · leakage control · validation under shift
+**ML & Responsible AI:** scikit-learn · calibration · conformal prediction · subgroup fairness · SHAP/LIME · model cards · benchmark design · leakage control · validation under shift
+
+**MLOps:** MLflow · Evidently (drift monitoring) · Great Expectations (data validation) · GitHub Actions (scheduled pipelines) · DuckDB
 
 **AI Engineering:** RAG · FAISS · FastAPI · Docker · provider abstraction · OCR/web ingestion · embeddings · pgvector · LLM evaluation
 
