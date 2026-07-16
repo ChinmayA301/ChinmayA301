@@ -72,6 +72,8 @@ A lightweight survey product for capturing AI readiness, governance, privacy, RO
 
 ## Additional Public Work
 
+- [Longitudinal Diabetes Risk Modeling with Neighborhood Deprivation](https://github.com/ChinmayA301/MS-projectss/tree/main/capstone) — patient-level temporal cohort construction across 6-, 12-, and 24-month horizons, matched ADI ablation, calibration, SHAP, and an honest negative result: best AUC `0.612`, with no consistent lift from ADI and substantial follow-up attrition.
+- [Public-Sector AI Readiness & Efficiency Evaluation](https://github.com/ChinmayA301/MS-projectss/tree/main/public-sector-ai-efficiency) — a four-stage framework connecting workflow baselines, public-data proxy studies, human-review gates, resident equity, and controlled-pilot decisions; simulated results are documented as hypotheses rather than production claims.
 - [SKM Football](https://github.com/ChinmayA301/skm-football) — process-based football player valuation using StatsBomb open data, VAEP-style modeling, validation reports, and Streamlit exploration.
 - [Data Science Career Audit](https://github.com/ChinmayA301/data-science-career-audit) — source-backed labor-market analysis on data science, GenAI exposure, and job-posting signals.
 - [Geo Visualizer](https://github.com/ChinmayA301/Geo-Visualizer) — cinematic map/timeline visualization using React, MapLibre, deck.gl, and historical movement data.
