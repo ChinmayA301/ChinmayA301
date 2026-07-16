@@ -5,7 +5,7 @@ M.S. Data Science candidate at the **University of Minnesota** building decision
 
 I care about proof over polish: real datasets, reproducible pipelines, calibrated models, honest limitations, and product surfaces that make technical judgment usable by operators, founders, and stakeholders.
 
-**Portfolio/blog:** https://app.chinmayarora.com/blog/
+**Portfolio/blog:** https://app.chinmayarora.com/
 
 ---
 
