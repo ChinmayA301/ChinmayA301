@@ -1,105 +1,48 @@
-# Hi, I'm Chinmay Arora 👋
-### Data Scientist | AI Engineer | Venture Architect
+# Hi, I'm Chinmay Arora
 
-M.S. Data Science candidate at the **University of Minnesota** building decision systems from messy data: operational analytics, responsible ML, retrieval systems, and venture-grade AI product prototypes.
+## Data Scientist and Applied AI Engineer focused on reliable decision systems
 
-I care about proof over polish: real datasets, reproducible pipelines, calibrated models, honest limitations, and product surfaces that make technical judgment usable by operators, founders, and stakeholders.
+I build applied analytics, machine-learning evaluation, retrieval systems, and responsible-AI controls for operational and high-trust workflows.
 
-**Portfolio/blog:** https://app.chinmayarora.com/
+One candid note: this GitHub is deliberately AI-polished. I use AI tools to help structure documentation, accelerate selected scaffolding, and pressure-test how the work is presented. The builds, datasets, experiments, ambitions, decisions, and results are real. I review, test, and own what I publish, and I state maturity and limitations where they matter.
 
----
+[Portfolio](https://app.chinmayarora.com/) · [Data Science](https://app.chinmayarora.com/projects/?path=data-science) · [Analytics](https://app.chinmayarora.com/projects/?path=analytics) · [Applied AI](https://app.chinmayarora.com/projects/?path=applied-ai) · [Responsible AI](https://app.chinmayarora.com/projects/?path=responsible-ai)
 
-## Featured AI Engineering
+## Featured work
 
-### 🏛️ [PolyRAG — Multi-Model RAG over AI-Governance Documents](https://github.com/ChinmayA301/PolyRAG) &nbsp;·&nbsp; *AI Engineer · GenAI · AI Governance*
-Same question, same retrieved context — **side-by-side, citation-grounded answers** from **LLaMA 3.3, GPT-OSS 120B, Qwen3 & DeepSeek** over real policy corpora: NIST AI RMF, EU AI Act, AI Bill of Rights. FAISS retrieval, Crawl4AI + OCR-fallback ingestion, CI-tested, Dockerized. **[Live demo ↗](https://chinmaya301-polyrag.hf.space)**
+### [Healthcare Risk, Fairness and Calibration](https://github.com/ChinmayA301/Risk-Prediction-with-Fairness-Geography)
 
-**Signals:** multi-provider LLM integration · retrieval evaluation · grounding/citation metrics · honest-claims documentation.
+**Status: Completed analysis.** Built a leakage-controlled hospital-readmission benchmark, then evaluated calibration, subgroup errors, and model explanations. The model card recommends against deployment as-is because aggregate performance did not erase reliability and fairness concerns.
 
----
+### [Tabular ML Reliability Benchmark](https://github.com/ChinmayA301/Tabular-ML-Benchmark-Human-Feature-Engineering-vs-AutoML-Agentic-Baselines)
 
-## Featured Data Science Portfolio
-Four end-to-end projects across analytics, modeling, ML evaluation, and live MLOps — **real public data, reproducible pipelines, honest limitations, decision-focused findings.**
+**Status: Completed analysis.** Designed a config-driven benchmark across domains and split regimes to separate preprocessing gains from model and tuning gains. The results show why evaluation design, calibration, runtime, and shift robustness matter more than model shopping.
 
-> "I build decision systems from messy data: operational dashboards for business visibility, risk models with fairness and calibration checks, and benchmarks for reliable ML deployment."
+### [Operations Control Tower](https://github.com/ChinmayA301/Operations-Control-Tower)
 
-### 📊 [Supply Chain Control Tower](https://github.com/ChinmayA301/Operations-Control-Tower) &nbsp;·&nbsp; *Data Analyst · BI · Operations Analytics*
-SQL star schema, KPI design, a tunable supplier **risk score**, and a 5-page Looker Studio decision dashboard on **98K real orders**.
+**Status: Completed analysis.** Built a DuckDB star schema, data-quality checks, KPI layer, supplier-risk logic, and Looker Studio-ready views over real Olist operations data. The project makes table grain and metric definitions part of the decision product, not invisible implementation detail.
 
-**Signals:** dimensional modeling · DuckDB SQL · KPI design · Looker Studio · data-quality checks.
+### [PolyRAG](https://github.com/ChinmayA301/PolyRAG)
 
-### 🩺 [Healthcare Risk + Fairness Modeling](https://github.com/ChinmayA301/Risk-Prediction-with-Fairness-Geography) &nbsp;·&nbsp; *Data Scientist · Responsible AI · Model Risk*
-Cohort design, leakage control, **calibration**, subgroup **fairness**, SHAP, and a model card on **70K real inpatient encounters**.
+**Status: Deployed demo.** Built a citation-grounded RAG workflow that gives multiple models the same retrieved evidence, separating retrieval quality from generation behavior. Includes ingestion, OCR fallback, FAISS retrieval, evaluation, FastAPI, Docker, and a [live demo](https://chinmaya301-polyrag.hf.space).
 
-**Signals:** rigorous evaluation beyond AUC · scikit-learn · gradient boosting · SHAP · deployment restraint.
+### [SKM Football Analytics](https://github.com/ChinmayA301/skm-football)
 
-### 🧪 [Tabular ML Benchmark: Feature Engineering vs AutoML](https://github.com/ChinmayA301/Tabular-ML-Benchmark-Human-Feature-Engineering-vs-AutoML-Agentic-Baselines) &nbsp;·&nbsp; *ML Engineer · ML Evaluation · AI Engineer*
-A config-driven harness comparing **5 pipelines × 3 domains × 2 split regimes** on accuracy, calibration, runtime, and robustness under distribution shift.
+**Status: Research prototype.** Developed and tested an original event-value and key-moment framework on StatsBomb open data. The work documents assumptions, role effects, descriptive limits, and failure cases instead of presenting one metric as a complete player judgment.
 
-**Signals:** experiment design · benchmark discipline · validation strategy · reproducible ML pipelines.
+## Capabilities, with evidence
 
-### 🌎 [Live Seismic ML Pipeline](https://github.com/ChinmayA301/Live-Seismic-ML-Pipeline) &nbsp;·&nbsp; *ML Engineer · MLOps · Scientific ML*
-A scheduled, self-monitoring MLOps loop on the **live USGS earthquake feed**: idempotent ingestion, a Great Expectations validation gate, a magnitude-estimation model with **conformal (distribution-free) uncertainty intervals**, and Evidently drift monitoring — running every 6 hours via GitHub Actions.
+- **Data and analytics:** Python, SQL, statistical analysis, KPI design, dimensional modeling, BI, and geospatial analysis.
+- **Machine learning:** calibration, feature engineering, subgroup analysis, SHAP, drift evaluation, and temporal validation.
+- **Applied AI:** RAG, embeddings, vector retrieval, document ingestion, OCR, FastAPI, Docker, grounding, and citation evaluation.
+- **Responsible AI:** fairness evaluation, model cards, human review, auditability, risk registers, and deployment gates.
 
-**Signals:** live/scheduled data pipelines · conformal prediction · MLflow · drift monitoring · data-contract validation.
+## Product and venture experiments
 
----
+My longer-term trajectory is technical product building and venture exploration grounded in data science and AI. The [Product and Venture Lab](https://app.chinmayarora.com/ideas/) separates observations and theses from prototypes and pilots so ambition does not masquerade as validation.
 
-## Venture / Product Architecture
-Public prototypes where the work is product framing plus implementation: trust infrastructure, diligence tooling, decision support, and market-facing AI readiness.
+Current themes include Aegis AI governance and readiness, document intelligence, trustworthy decision systems, logistics risk, and sports intelligence. Private work is described without exposing private code, customer data, or implementation IP.
 
-### ◈ [Wax Seal Cybersecurity](https://github.com/ChinmayA301/wax-seal) &nbsp;·&nbsp; *Trust Infrastructure · Product Architecture · TypeScript*
-A framework for visible, human-legible trust provenance over digital artifacts: cryptographic seal envelopes, lifecycle state machines, CLI signing/verification, and React seal components.
+## Contact
 
-**Signals:** threat modeling · standards-aware product design · TypeScript monorepo · XState · Ed25519 signing.
-
-### 🧭 [Decision Intelligence](https://github.com/ChinmayA301/Decision-Intelligence) &nbsp;·&nbsp; *AI Decision Support · Strategy Tooling · Full Stack*
-A research app for pressure-testing high-stakes business decisions against a curated library of historical decision patterns using pgvector retrieval and structured strategic lenses.
-
-**Signals:** FastAPI · Next.js · pgvector · LLM orchestration · decision briefs · pre-mortem design.
-
-### 📈 [SignalGraph](https://github.com/ChinmayA301/Signal-Graph) &nbsp;·&nbsp; *Open-Source Diligence · Venture Analytics · Risk Scoring*
-Credibility-adjusted traction analysis for open-source investing, with explainable adoption, durability, builder-quality, and manipulation-risk signals.
-
-**Signals:** venture diligence workflows · scoring systems · FastAPI · Postgres · Recharts · conservative risk language.
-
-### 🛡️ [Aegis AI Readiness Pulse Survey](https://github.com/ChinmayA301/aegis-survey) &nbsp;·&nbsp; *AI Strategy · Governance · Market Discovery*
-A lightweight survey product for capturing AI readiness, governance, privacy, ROI, and implementation signals from networking events and stakeholder conversations.
-
-**Signals:** AI readiness assessment · governance taxonomy · lead qualification · privacy-aware survey design.
-
----
-
-## Additional Public Work
-
-- [Longitudinal Diabetes Risk Modeling with Neighborhood Deprivation](https://github.com/ChinmayA301/MS-projectss/tree/main/capstone) — patient-level temporal cohort construction across 6-, 12-, and 24-month horizons, matched ADI ablation, calibration, SHAP, and an honest negative result: best AUC `0.612`, with no consistent lift from ADI and substantial follow-up attrition.
-- [Public-Sector AI Readiness & Efficiency Evaluation](https://github.com/ChinmayA301/MS-projectss/tree/main/public-sector-ai-efficiency) — a four-stage framework connecting workflow baselines, public-data proxy studies, human-review gates, resident equity, and controlled-pilot decisions; simulated results are documented as hypotheses rather than production claims.
-- [SKM Football](https://github.com/ChinmayA301/skm-football) — process-based football player valuation using StatsBomb open data, VAEP-style modeling, validation reports, and Streamlit exploration.
-- [Data Science Career Audit](https://github.com/ChinmayA301/data-science-career-audit) — source-backed labor-market analysis on data science, GenAI exposure, and job-posting signals.
-- [Geo Visualizer](https://github.com/ChinmayA301/Geo-Visualizer) — cinematic map/timeline visualization using React, MapLibre, deck.gl, and historical movement data.
-- [IPL Historic Dashboard](https://github.com/ChinmayA301/ipl-dash) — single-page sports analytics dashboard with interactive season tracking and custom visualizations.
-- [MS Projects Catalog](https://github.com/ChinmayA301/MS-projectss) — curated graduate-era analytics, ML, RAG, document-intake, segmentation, and data-pipeline work.
-
----
-
-## Core Skill Map
-
-**Data Science & Analytics:** Python · pandas · SQL · DuckDB · dimensional modeling · KPI design · Looker Studio · Power BI · geospatial/service analytics
-
-**ML & Responsible AI:** scikit-learn · calibration · conformal prediction · subgroup fairness · SHAP/LIME · model cards · benchmark design · leakage control · validation under shift
-
-**MLOps:** MLflow · Evidently (drift monitoring) · Great Expectations (data validation) · GitHub Actions (scheduled pipelines) · DuckDB
-
-**AI Engineering:** RAG · FAISS · FastAPI · Docker · provider abstraction · OCR/web ingestion · embeddings · pgvector · LLM evaluation
-
-**Venture Architecture:** market signal design · diligence workflows · AI readiness assessment · governance/risk matrices · product narrative · stakeholder-facing prototypes
-
-📫 **Reach me at:** [chinmayarora2001@gmail.com](mailto:chinmayarora2001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chinmay-arora/)
-
----
-
-[<img width="170" height="28" alt="Resume" src="https://github.com/user-attachments/assets/c4c9513e-0dfa-4d0c-818f-2163c29431b3" />](https://github.com/ChinmayA301/assets/blob/main/Resume.pdf)
-
-<!--
-**ChinmayA301/ChinmayA301** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+[Portfolio](https://app.chinmayarora.com/) · [LinkedIn](https://www.linkedin.com/in/chinmay-arora-27682211b/) · [Email](mailto:chinmayarora2001@gmail.com) · [Resume](https://github.com/ChinmayA301/assets/blob/main/Resume.pdf)
