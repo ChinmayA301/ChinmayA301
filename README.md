@@ -45,4 +45,4 @@ Some blabberring pieces over at [Blog](https://app.chinmayarora.com/blog/)
 
 ## Contact
 
-[Portfolio](https://app.chinmayarora.com/) · [LinkedIn](https://www.linkedin.com/in/chinmay-arora-27682211b/) · [Email](mailto:chinmayarora2001@gmail.com) · [Resume](https://github.com/ChinmayA301/assets/blob/main/Resume.pdf)
+[Portfolio](https://app.chinmayarora.com/) · [LinkedIn](https://www.linkedin.com/in/chinmay-arora-27682211b/) · [Email](mailto:chinmayarora2001@gmail.com) · [Resume](https://app.chinmayarora.com/assets/Chinmay_Arora_Master_Resume.pdf)
