@@ -37,11 +37,11 @@ One candid note: this GitHub is deliberately AI-polished. I use AI tools to help
 - **Applied AI:** RAG, embeddings, vector retrieval, document ingestion, OCR, FastAPI, Docker, grounding, and citation evaluation.
 - **Responsible AI:** fairness evaluation, model cards, human review, auditability, risk registers, and deployment gates.
 
-## Product and venture experiments
+## My What Excites You To Wake Up
 
-My longer-term trajectory is technical product building and venture exploration grounded in data science and AI. The [Product and Venture Lab](https://app.chinmayarora.com/ideas/) separates observations and theses from prototypes and pilots so ambition does not masquerade as validation.
+My longer-term trajectory is technical product building and venture exploration grounded in data science and AI. Check out [Product and Venture Lab](https://app.chinmayarora.com/ideas/) if interested.
 
-Current themes include Aegis AI governance and readiness, document intelligence, trustworthy decision systems, logistics risk, and sports intelligence. Private work is described without exposing private code, customer data, or implementation IP.
+Some blabberring pieces over at [Blog](https://app.chinmayarora.com/blog/)
 
 ## Contact
 
